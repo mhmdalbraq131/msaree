@@ -1,0 +1,6 @@
+{
+  "name": "Masari Platform",
+  "description": "منصة مساري للسفريات والسياحة والحج والعمرة - The commercial digital foundation of the Masari Travel Agency platform, featuring the integrated MASARI AI Intelligence Platform with real-time bookings, digital wallet, and pilgrim ritual guidance engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
